@@ -70,7 +70,7 @@ export default function SettingsModal({ onClose }: Props) {
             value={key}
             onChange={e => setKey(e.target.value)}
             onKeyDown={e => e.key === "Enter" && handleSave()}
-            placeholder="sk-848303b652ac4720a4891398338089d3"
+            placeholder="sk-以sk开头的API钥匙"
             className="w-full px-3 py-2.5 rounded-lg border border-gray-200
                        focus:outline-none focus:border-blue-400 text-sm font-mono"
           />
