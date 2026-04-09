@@ -46,7 +46,6 @@
 - 开机自启开关：在设置页一键启用/关闭。
 - 可打包为独立安装包（无需 Node/Rust 运行环境）。
 
-![设置页与托盘占位图](docs/images/settings-tray-placeholder.png)
 
 ## 技术栈
 - 前端：React 19 + TypeScript + Tailwind CSS + React Router
