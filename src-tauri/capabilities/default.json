@@ -1,0 +1,15 @@
+{
+  "identifier": "default",
+  "description": "Default capabilities",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "sql:default",
+    "notification:default",
+    "dialog:default",
+    "dialog:allow-open",
+    "fs:default",
+    "fs:read-all",
+    "fs:write-all"
+  ]
+}
