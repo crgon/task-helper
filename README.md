@@ -106,6 +106,3 @@ src-tauri/
 	src/
 ```
 
-## 截图占位说明
-- 本 README 中所有 `docs/images/*-placeholder.png` 为图片预留路径。
-- 你后续上传真实截图后，保持同名即可自动替换展示。
